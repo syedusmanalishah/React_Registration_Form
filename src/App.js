@@ -12,7 +12,7 @@ function App() {
        <BrowserRouter>
       <Base>
         <Routes>
-          <Route index path="/" element={<Home/>} /> */}
+          <Route index path="/React_Registration_Form" element={<Home/>} /> */}
           <Route path="/home" element={<Home/>}/>
         </Routes>
       </Base>

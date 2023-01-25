@@ -75,7 +75,7 @@ const Hero = () => {
         </Col>
         <Col>  
         <Form.Label>Mailing Address</Form.Label>
-        <Form.Control type="number" placeholder="Mailing Address" />
+        <Form.Control type="text" placeholder="Mailing Address" />
         </Col>
       </Row>
     

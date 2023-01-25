@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Registration_Form/static/css/main.85768c17.css",
-    "main.js": "/React_Registration_Form/static/js/main.559799f0.js",
+    "main.js": "/React_Registration_Form/static/js/main.0845a33f.js",
     "static/js/787.8cb7e7aa.chunk.js": "/React_Registration_Form/static/js/787.8cb7e7aa.chunk.js",
     "index.html": "/React_Registration_Form/index.html",
     "main.85768c17.css.map": "/React_Registration_Form/static/css/main.85768c17.css.map",
-    "main.559799f0.js.map": "/React_Registration_Form/static/js/main.559799f0.js.map",
+    "main.0845a33f.js.map": "/React_Registration_Form/static/js/main.0845a33f.js.map",
     "787.8cb7e7aa.chunk.js.map": "/React_Registration_Form/static/js/787.8cb7e7aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.559799f0.js"
+    "static/js/main.0845a33f.js"
   ]
 }

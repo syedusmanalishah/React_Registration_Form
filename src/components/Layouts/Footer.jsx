@@ -8,7 +8,7 @@ const Footer = () => {
         className="footer text-center text-lg-start text-black"
         style={{ marginTop:'12%'}} >
    
-              <strong style={{ marginLeft:'37%'}}>
+              <strong id= "footerp" style={{ marginLeft:'37%'}}>
                 © 2023 Created by Syed Usman and M.Aqeel 
               </strong>
            
